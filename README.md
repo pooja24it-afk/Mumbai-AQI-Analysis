@@ -1,24 +1,23 @@
 # Air Quality Index (AQI) Analysis of Mumbai Using Python
-
-## 📌 Project Overview
+Project Overview
 This project focuses on analyzing the Air Quality Index (AQI) of Mumbai using Python.
 The objective is to understand air pollution patterns using data preprocessing,
 statistical analysis, and visualization techniques.
 
-## 📁 Dataset
+Dataset
 - Source: Kaggle
 - City: Mumbai
 - File Format: CSV
 - Dataset includes AQI values and pollutant information.
 
-## ⚙️ Tools and Libraries Used
+Tools and Libraries Used
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Google Colab
 
-## 🧪 Techniques Implemented
+Techniques Implemented
 - Data loading and inspection
 - Handling missing values
 - Mean, Median, and Mode calculation
@@ -27,16 +26,16 @@ statistical analysis, and visualization techniques.
 - Box plot analysis
 - Bar chart representation
 
-## 📊 Visualizations
+Visualizations
 - Histogram of AQI values
 - Box Plot of AQI
 - Monthly Average AQI Bar Chart
 
-## ✅ Conclusion
+Conclusion
 The analysis shows that Mumbai generally experiences moderate AQI levels,
 with occasional high pollution days. The visualizations help in understanding
 the AQI distribution and seasonal variation.
 
-## 📎 Files Included
+Files Included
 - Mumbai_AQI_Analysis.ipynb
 - Mumbai_AQI_Dataset.csv
