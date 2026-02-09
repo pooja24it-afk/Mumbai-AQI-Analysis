@@ -6,7 +6,7 @@ The objective is to study air pollution patterns through data preprocessing,
 statistical analysis, and data visualization techniques.
 
 Dataset
-- Source: Kaggle
+- Source:GitHub
 - City: Mumbai
 - File Format: CSV
 - The dataset contains AQI values along with pollutant information such as PM2.5.
